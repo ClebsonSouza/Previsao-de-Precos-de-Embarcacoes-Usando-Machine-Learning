@@ -6,9 +6,11 @@ O desafio é tentar prever o preço de embarcações baseado nas característica
 Este projeto tem como objetivo desenvolver um modelo de machine learning para prever os preços de barcos com base em diversas características. Utilizando técnicas de Regressão Linear e Regressão por Floresta Aleatória, buscamos fornecer previsões precisas para auxiliar na tomada de decisões de compra e venda no mercado de barcos.
 
 Problema de Negócio
+
 Prever o preço de barcos é crucial para diversas partes interessadas, incluindo vendedores, compradores e empresas de avaliação. Com dados precisos e modelos bem treinados, é possível determinar o valor justo de um barco, o que facilita negociações e transações financeiras.
 
 Estrutura do Projeto
+
 1. Carregamento dos Dados
 Carregamos a base de dados a partir do arquivo CSV barcos_ref.csv, contendo informações detalhadas sobre os barcos.
 
@@ -23,6 +25,7 @@ Dois modelos de machine learning são treinados:
 
 Regressão Linear: Simples e interpretável, útil para entender a relação linear entre as características e o preço.
 Floresta Aleatória: Modelo mais complexo que pode capturar relações não lineares e interações entre características.
+
 5. Avaliação dos Modelos
 As previsões dos modelos são comparadas usando a métrica R². Essa avaliação nos permite entender qual modelo oferece melhores previsões para os dados de teste.
 
