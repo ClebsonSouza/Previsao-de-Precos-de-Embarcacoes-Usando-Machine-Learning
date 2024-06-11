@@ -32,5 +32,5 @@ Visualizamos as previsões dos modelos em um gráfico, facilitando a comparaçã
 7. Previsão para Novos Dados
 Carregamos um novo conjunto de dados (novos_barcos.csv) e utilizamos o modelo de Floresta Aleatória para prever os preços desses novos barcos.
 
-Conclusão
+Conclusão:
 Este projeto fornece uma abordagem prática e eficiente para prever os preços de barcos, utilizando dados históricos e técnicas avançadas de machine learning. As previsões precisas podem ser extremamente úteis para facilitar negociações e decisões no mercado de barcos.
