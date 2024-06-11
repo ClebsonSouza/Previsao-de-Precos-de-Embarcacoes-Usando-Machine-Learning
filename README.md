@@ -22,7 +22,6 @@ Os dados são divididos em conjuntos de treino e teste utilizando a função tra
 
 4. Treinamento dos Modelos
 Dois modelos de machine learning são treinados:
-
 Regressão Linear: Simples e interpretável, útil para entender a relação linear entre as características e o preço.
 Floresta Aleatória: Modelo mais complexo que pode capturar relações não lineares e interações entre características.
 
